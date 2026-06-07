@@ -1,0 +1,52 @@
+{
+    "chat_1780637206064": {
+        "title": "what is Business Writing",
+        "messages": [
+            {
+                "text": "what is Business Writing",
+                "isUser": true
+            },
+            {
+                "text": "I am a Medical AI Assistant. I can only help with health and medical questions. Please ask me about symptoms, diseases, treatments, or medications. \n\nFor serious conditions, please consult a doctor. For emergencies in Pakistan, call 1122.",
+                "isUser": false
+            }
+        ]
+    },
+    "chat_1780637926458": {
+        "title": "what is ai",
+        "messages": [
+            {
+                "text": "what is ai",
+                "isUser": true
+            },
+            {
+                "text": "I am a Medical AI Assistant. I can only help with health and medical questions. Please ask me about symptoms, diseases, treatments, or medications. \n\nFor serious conditions, please consult a doctor. For emergencies in Pakistan, call 1122.",
+                "isUser": false
+            },
+            {
+                "text": "what is information security",
+                "isUser": true
+            },
+            {
+                "text": "I am a Medical AI Assistant. I can only help with health and medical questions. Please ask me about symptoms, diseases, treatments, or medications.",
+                "isUser": false
+            },
+            {
+                "text": "which medicine are used for blood pressure",
+                "isUser": true
+            },
+            {
+                "text": "For blood pressure, several types of medications are used, including:\n\n1. **Diuretics**: These help remove excess fluid from the body, which can help lower blood pressure. Examples include hydrochlorothiazide (HCTZ) and furosemide.\n2. **Beta blockers**: These reduce the heart rate and the force of the heart's contractions, which can help lower blood pressure. Examples include atenolol and metoprolol.\n3. **ACE inhibitors**: These block the production of a chemical that constricts blood vessels, which can help lower blood pressure. Examples include lisinopril and enalapril.\n4. **Angiotensin II receptor blockers (ARBs)**: These work by blocking the action of a chemical that constricts blood vessels, which can help lower blood pressure. Examples include losartan and valsartan.\n5. **Calcium channel blockers**: These relax blood vessels, which can help lower blood pressure. Examples include amlodipine and verapamil.\n6. **Alpha blockers**: These reduce the effect of a chemical that constricts blood vessels, which can help lower blood pressure. Examples include doxazosin and prazosin.\n\nIt's essential to consult a doctor before taking any medication for blood pressure, as they will determine the best course of treatment based on individual needs and medical history.\n\nFor serious conditions, please consult a doctor. For emergencies in Pakistan, call 1122.",
+                "isUser": false
+            },
+            {
+                "text": "which medicine are used for allergy",
+                "isUser": true
+            },
+            {
+                "text": "Allergies ke liye kai tarah ke dawaen istemaal ki jaati hain. Yahaan kuch common medicine hain:\n\n1. Antihistamines: Ye dawaen allergies ke symptoms jese ki khujli, chezon ki swelling, aur zukaam ko kam karte hain. Examples hain:\n * Diphenhydramine (Benadryl)\n * Loratadine (Claritin)\n * Cetirizine (Zyrtec)\n2. Decongestants: Ye dawaen naak ki bandish ko khulne mein madad karte hain. Examples hain:\n * Pseudoephedrine (Sudafed)\n * Phenylephrine (Sudafed PE)\n3. Corticosteroids: Ye dawaen allergies ke symptoms ko kam karne ke liye istemaal ki jaati hain, khaas karke asthma aur allergic rhinitis mein. Examples hain:\n * Fluticasone (Flonase)\n * Triamcinolone (Nasacort)\n4. Immunotherapy: Ye ek tarah ki treatment hai jismein allergies ke liye allergen ki chhoti matra di jaati hai taaki sharir use bardasht karne lage.\n5. Mast cell stabilizers: Ye dawaen mast cells ko rokne mein madad karti hain, jo allergies ke symptoms ko badhate hain. Examples hain:\n * Cromolyn sodium (Intal)\n\nYaad rakhein, in dawaon ko lena sirf doctor ki salah par hona chahiye. Agar aapko koi serious allergy hai, to turant doctor se sampark karein. For serious conditions, please consult a doctor. For emergencies in Pakistan, call 1122.",
+                "isUser": false
+            }
+        ]
+    }
+}
