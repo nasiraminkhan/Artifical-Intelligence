@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Numair AND Nasir AI Assistant</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="sidebar" id="sidebar">
+        <div class="sidebar-top">
+            <div class="sidebar-logo">
+                <span class="logo-text">⚡ N&N AI</span>
+                <button class="icon-btn" id="toggleBtn" title="Close sidebar">☰</button>
+            </div>
+            <button class="new-chat-btn" id="newChatBtn">
+                <span>✏️</span> New chat
+            </button>
+            <button class="search-btn" id="searchBtn">
+                <span>🔍</span> Search chats
+            </button>
+            <input type="text" class="search-input" id="searchInput" placeholder="Search your chats..."/>
+        </div>
+        <div class="section-label">Recents</div>
+        <div class="chat-list" id="chatList"></div>
+        <div class="sidebar-bottom">
+            <div class="user-avatar">N</div>
+            <span class="user-name">Numair & Nasir</span>
+        </div>
+    </div>
+
+    <div class="main">
+        <div class="top-bar">
+            <div class="top-bar-left">
+                <button class="icon-btn" id="openSidebarBtn" title="Open sidebar">☰</button>
+                <div class="model-name">
+                   Medical AI Assistant
+<span class="model-badge">MedBot- Groq LLaMA3.3</span>
+                </div>
+            </div>
+            <button class="share-btn">↗ Share</button>
+        </div>
+
+        <div class="chat-messages" id="chatMessages"></div>
+
+        <div class="input-area">
+            <div class="input-box">
+                <input type="text" id="userInput" placeholder="Ask anything..." autocomplete="off"/>
+                <button class="send-btn" id="sendBtn">↑</button>
+            </div>
+            <p class="disclaimer">AI can make mistakes. Please verify important information.</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
