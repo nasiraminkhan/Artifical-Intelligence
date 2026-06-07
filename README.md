@@ -1,7 +1,7 @@
 *Medical AI Assistant Project*
  *Project Description*
 This project is an AI-based Medical Chatbot developed using Python and Flask.
-It helps users by answering basic medical-related questions using Gemini AI API.
+It helps users by answering basic medical-related questions using Groq AI API key.LLaMA 3.370B model
  *Features*
 AI Medical Chatbot
 User-friendly Interface
